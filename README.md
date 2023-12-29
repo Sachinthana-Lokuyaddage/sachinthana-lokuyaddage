@@ -19,10 +19,10 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 ### Wanna learn from me?
 
-*<a href="https://www.youtube.com/@cydexcode" target="_blank"><img src="https://www.youtube.com/favicon.ico" height="20"/> YouTube</a>
-*<a href="https://www.tiktok.com/@cydexcode" target="_blank"><img src="https://www.tiktok.com/favicon.ico" height="20"/> TikTok</a>
-*<a href="https://t.me/CydexCode_Academy" target="_blank"><img src="https://telegram.org/favicon.ico" height="20"/> Telegram Group</a>
-*<a href="https://www.facebook.com/cydexcode" target="_blank"><img src="https://www.facebook.com/favicon.ico" height="20"/> Facebook Page</a>
+* <a href="https://www.youtube.com/@cydexcode" target="_blank"><img src="https://www.youtube.com/favicon.ico" height="20"/> YouTube</a></br>
+* <a href="https://www.tiktok.com/@cydexcode" target="_blank"><img src="https://www.tiktok.com/favicon.ico" height="20"/> TikTok</a></br>
+* <a href="https://t.me/CydexCode_Academy" target="_blank"><img src="https://telegram.org/favicon.ico" height="20"/> Telegram Group</a></br>
+* <a href="https://www.facebook.com/cydexcode" target="_blank"><img src="https://www.facebook.com/favicon.ico" height="20"/> Facebook Page</a></br>
 
 
 ### Wanna get something done?
@@ -33,5 +33,9 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 ### Wanna sponsor me?
 
-<a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
-<a href="https://www.patreon.com/bePatron?u=39152607" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a>
+<a href="https://www.paypal.me/CCs01" target="_blank">
+  <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-logo-small.png" alt="Donate with PayPal" height="50px">
+</a>
+
+
+
