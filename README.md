@@ -2,6 +2,7 @@
 
 ### Who am I?
 
+I'm a tech enthusiast who would like to explore new technologies.
 I love to share knowledge with the rest of the world, and that's why I write a lot of articles,and make YouTube,TikTok videos.
 Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to share my code so others can make use of them.
 
@@ -10,20 +11,11 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
 
-### Top Repositories
-
-* [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
-* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
-* [Pull Request Reports](https://github.com/gnomezgrave/pull-request-reports)
-* [Copy DynamoDB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [Qt Auto Translator](https://github.com/gnomezgrave/qt-auto-translator)
-* [Copy Dynamo DB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [A-Star Algorithm](https://github.com/gnomezgrave/A-Star)
-
-### Wanna read my articles?
-
-* <img src="https://praneeth.gnomezgrave.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://praneeth.gnomezgrave.com/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://gnomezgrave.com/)
+### Wanna connect with me?
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png](https://www.linkedin.com/in/sachinthana-buddhika-618ab126b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/CydexCode)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/__sachinthana__buddhika__)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/sachinthana.buddhika)
 
 ### Wanna connect with me?
 
@@ -36,7 +28,6 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/praneethpeiris/)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/PraneethPeiris)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
-
 
 ### Wanna get something done?
 
