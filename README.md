@@ -27,10 +27,8 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 ### Send me a message to grow your business on my TikTok, YouTube, Telegram channels
 
-* <a href="mailto:cydexcode2000@gmail.com"> cydexcode2000@gmail.com
-  <img src="https://praneeth.gnomezgrave.com/assets/img/icons/gmail.png" height="20" alt="Gmail Icon"/>
-</a>
-* +9470 5888 081
+* <h1> cydexcode2000@gmail.com</h1>
+* <h1> +9470 5888 081 </h1> 
 
 
 
