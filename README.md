@@ -30,11 +30,10 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
 
 
-
 ### Wanna sponsor me?
 
 <a href="https://www.paypal.me/CCs01" target="_blank">
-  <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-logo-small.png" alt="Donate with PayPal" height="50px">
+  <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="Donate with PayPal" height="50px">
 </a>
 
 
