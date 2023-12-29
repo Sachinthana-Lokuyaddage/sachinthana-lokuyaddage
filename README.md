@@ -25,9 +25,13 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 * <a href="https://www.facebook.com/cydexcode" target="_blank"><img src="https://www.facebook.com/favicon.ico" height="20"/> Facebook Page</a></br>
 
 
-### Wanna get something done?
+### Send me a message to grow your business on my TikTok, YouTube, Telegram channels
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
+* <a href="mailto:cydexcode2000@gmail.com"> cydexcode2000@gmail.com
+  <img src="https://praneeth.gnomezgrave.com/assets/img/icons/gmail.png" height="20" alt="Gmail Icon"/>
+</a>
+* +9470 5888 081
+
 
 
 ### Wanna sponsor me?
