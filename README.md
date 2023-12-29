@@ -19,7 +19,6 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 ### Wanna learn from me?
 
-
 *<a href="https://www.youtube.com/@cydexcode" target="_blank"><img src="https://www.youtube.com/favicon.ico" height="20"/> YouTube</a>
 *<a href="https://www.tiktok.com/@cydexcode" target="_blank"><img src="https://www.tiktok.com/favicon.ico" height="20"/> TikTok</a>
 *<a href="https://t.me/CydexCode_Academy" target="_blank"><img src="https://telegram.org/favicon.ico" height="20"/> Telegram Group</a>
