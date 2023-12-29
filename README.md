@@ -27,8 +27,8 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 ### Send me a message to grow your business on my TikTok, YouTube, Telegram channels
 
-* <h1> cydexcode2000@gmail.com</h1>
-* <h1> +9470 5888 081 </h1> 
+* <div> cydexcode2000@gmail.com</div>
+* <div> +9470 5888 081 </div> 
 
 
 
