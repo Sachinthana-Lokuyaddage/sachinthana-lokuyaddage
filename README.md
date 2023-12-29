@@ -25,10 +25,10 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 * <a href="https://www.facebook.com/cydexcode" target="_blank"><img src="https://www.facebook.com/favicon.ico" height="20"/> Facebook Page</a></br>
 
 
-### Send me a message to grow your business on my TikTok, YouTube, Telegram channels
+### Send me a message to grow your business worldwide through my TikTok, YouTube, Telegram channels
 
 * <div> cydexcode2000@gmail.com</div>
-* <div> +9470 5888 081 </div> 
+* <div> +9470 5888 081 (WhatsApp,Telegram)</div> 
 
 
 
