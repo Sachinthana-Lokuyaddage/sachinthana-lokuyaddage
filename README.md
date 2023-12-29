@@ -17,25 +17,20 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/__sachinthana__buddhika__)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/sachinthana.buddhika)
 
-### Wanna connect with me?
+### Wanna learn from me?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UCB9dJjRyp6gJXItrLPaZsOA)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/GamezGrave.png" height="20"/>&nbsp; [Gaming](https://www.youtube.com/channel/UCqadMDdlCaxzJN2qpj4UwAQ)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UCte9ZuMNwDFLHugTQkU--0g)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/1538258/praneeth-peiris)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/gnomezgrave)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/praneethpeiris/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/twitter.png" height="20"/>&nbsp; [Twitter](https://twitter.com/PraneethPeiris)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
+
+*<a href="https://www.youtube.com/@cydexcode" target="_blank"><img src="https://www.youtube.com/favicon.ico" height="20"/> YouTube</a>
+*<a href="https://www.tiktok.com/@cydexcode" target="_blank"><img src="https://www.tiktok.com/favicon.ico" height="20"/> TikTok</a>
+*<a href="https://t.me/CydexCode_Academy" target="_blank"><img src="https://telegram.org/favicon.ico" height="20"/> Telegram Group</a>
+*<a href="https://www.facebook.com/cydexcode" target="_blank"><img src="https://www.facebook.com/favicon.ico" height="20"/> Facebook Page</a>
+
 
 ### Wanna get something done?
 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
 
 
-### Wanna learn from me?
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/praneeth-peiris/)
 
 ### Wanna sponsor me?
 
