@@ -12,7 +12,7 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
 
 ### Wanna connect with me?
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png](https://www.linkedin.com/in/sachinthana-buddhika-618ab126b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/sachinthana-buddhika-618ab126g?)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/CydexCode)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/__sachinthana__buddhika__)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/sachinthana.buddhika)
