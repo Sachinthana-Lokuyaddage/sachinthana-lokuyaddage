@@ -7,7 +7,7 @@ I love to share knowledge with the rest of the world, and that's why I write a l
 Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to share my code so others can make use of them.
 
 ### My stats
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" > -->
+<<img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" > 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
 
