@@ -6,6 +6,11 @@ I'm a tech enthusiast who would like to explore new technologies.
 I love to share knowledge with the rest of the world, and that's why I write a lot of Blog articles,and make YouTube,TikTok videos.
 Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to share my code so others can make use of them.
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=Five+Years+Of+Experience+in+Programming⭐.." />
+</p>
+
 ### My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" > 
 
