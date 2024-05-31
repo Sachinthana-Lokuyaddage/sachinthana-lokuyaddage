@@ -11,7 +11,12 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=Five+Years+Of+Experience+in+Programming⭐.." />
 </p>
 
-### My stats
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,cpp,csharp,java,express,react,vue,nodejs,typescript,nextjs,dotnet,mongodb,sql,postman,netlify,arduino,linux,figma,git,jira)](https://skillicons.dev)
+
+
+### My status
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" > 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
