@@ -13,7 +13,7 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,cpp,csharp,java,express,react,vue,nodejs,typescript,nextjs,dotnet,mongodb,sql,postman,netlify,arduino,linux,figma,git,jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,cpp,cs,java,express,react,vue,nodejs,typescript,nextjs,dotnet,mongodb,mysql,postman,netlify,arduino,linux,figma,git,azure,kubernetes,docker,stackoverflow,tensorflow)](https://skillicons.dev)
 
 
 ### My status
