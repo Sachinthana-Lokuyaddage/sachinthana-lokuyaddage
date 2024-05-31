@@ -18,10 +18,8 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 
 ### My status
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub status" > 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manashvicode&theme=tokyonight" alt="mystreak"/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cydexcode&theme=tokyonight" alt="mystreak"/>
 
 
 
