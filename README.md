@@ -19,7 +19,11 @@ Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to 
 ### My status
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" > 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jps27CSE&theme=react)  
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
+
+
 
 ### Wanna connect with me?
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/sachinthana-buddhika-618ab126b)
