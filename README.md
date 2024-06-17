@@ -3,7 +3,7 @@
 ### Who am I?
 
 I'm a tech enthusiast who would like to explore new technologies.
-I love to share knowledge with the rest of the world, and that's why I write a lot of Blog articles,and make YouTube,TikTok videos.
+I love to share knowledge with the rest of the world, and that's why I write a lot of [Blog articles](https://medium.com/@cydexcode),and make [YouTube](https://www.youtube.com/@cydexcode),[TikTok](https://www.tiktok.com/@cydexcode) videos.
 Since I'm (still) a Computer Enginnering Undergraduayed Student, I also like to share my code so others can make use of them.
 
 
