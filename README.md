@@ -7,6 +7,7 @@ I love to share knowledge with the rest of the world, and that's why I write a l
 Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaffna), I also like to share my code so others can make use of them. 
 
 - I am the **Founder** of the **[CydexCode](https://www.linkedin.com/company/cydexcode)** E-Learning Provider.
+- 📧 Contact: <a href="mailto:sachinthanabuddhika79@gmail.com" style="text-decoration: none;">sachinthanabuddhika79@gmail.com</a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=Five+Years+Of+Experience+in+Programming⭐.." />
 </p>
