@@ -3,9 +3,8 @@
 ### Who am I?
 
 - I'm a tech enthusiast who would like to explore new technologies.
-I love to share knowledge with the rest of the world, and that's why I write a lot of [Blog articles](https://medium.com/@cydexcode) and make [YouTube](https://www.youtube.com/@cydexcode) , [TikTok](https://www.tiktok.com/@cydexcode) videos.
-Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaffna), I also like to share my code so others can make use of them. 
-
+I love to share knowledge with the rest of the world, and that's why I write a lot of [Blog articles](https://medium.com/@cydexcode) and make [YouTube](https://www.youtube.com/@cydexcode) , [TikTok](https://www.tiktok.com/@cydexcode) videos.I also like to share my code so others can make use of them.
+- I'm a Computer Enginnering Undergraduate Student (University of Jaffna)
 - I am the **Founder** of the **[CydexCode](https://www.linkedin.com/company/cydexcode)** E-Learning Provider.
 - 📧 Contact: <a href="mailto:sachinthanabuddhika79@gmail.com" style="text-decoration: none;">sachinthanabuddhika79@gmail.com</a>
 <p align="center">
@@ -46,6 +45,7 @@ Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaf
    <a href="https://www.facebook.com/sachinthana.buddhika">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+ 
 </div>
 
 ### Wanna learn from me?
