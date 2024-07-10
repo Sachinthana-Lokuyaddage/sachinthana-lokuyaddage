@@ -29,6 +29,8 @@ Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaf
 - **[Responsive Portfolio Website](https://github.com/CydexCode/Portfolio-Personal-Website)** ( HTML , CSS , JavaScript )
 - **[Chess Game](https://github.com/CydexCode/Chess-Game-using-JavaScript)** ( HTML , CSS , JavaScript )
 
+- **[Plant Disease Detection](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50)** ( Transfer Learning with ResNet50)
+
 ### Wanna connect with me?
 
 <div id="badges">
