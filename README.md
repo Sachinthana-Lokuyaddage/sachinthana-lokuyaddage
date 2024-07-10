@@ -2,13 +2,19 @@
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies.
+- I'm a tech enthusiast who would like to explore new technologies.
 I love to share knowledge with the rest of the world, and that's why I write a lot of [Blog articles](https://medium.com/@cydexcode),and make [YouTube](https://www.youtube.com/@cydexcode),[TikTok](https://www.tiktok.com/@cydexcode) videos.
-Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaffna), I also like to share my code so others can make use of them. I am the owner of the CydexCode mentioned in above links.
+Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaffna), I also like to share my code so others can make use of them. 
 
+- I am the **Founder** of the **[CydexCode](https://www.linkedin.com/company/cydexcode)** E-Learning Provider.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=Five+Years+Of+Experience+in+Programming⭐.." />
 </p>
+
+### Ongoing Projects 🚧
+
+- **[CydexCode Mobile App](https://github.com/CydexCode/CydexCode_Mobile_App)** 📱
+- **[CydexCode Web Application](https://github.com/CydexCode/CydexCode_Blog_App)** 💻
 
 ### Wanna connect with me?
 
