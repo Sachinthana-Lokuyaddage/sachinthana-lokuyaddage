@@ -19,7 +19,7 @@ I love to share knowledge with the rest of the world, and that's why I write a l
 ### Completed Projects 🚧
 
 - **[University ExamHall Booking System](https://github.com/CydexCode/ExamHallBookingSystem)** ( .NET Core Web API + React.js + SQL Server )
-- **[Pet Palace](https://github.com/CydexCode/Pet_Palace)** ( .NET Core Web API + React + SQL Server )
+- **[Pet Palace](https://github.com/CydexCode/Pet_Palace)** ( .NET Core Web API + React.js + SQL Server )
 - **Juice Bar ([Backend](https://github.com/CydexCode/JuiceBarAPI) , [Frontend](https://github.com/CydexCode/JuiceBarApplication))** ( .NET Core Web API + React.js + SQL Server )
 - **[Mail Send](https://github.com/CydexCode/MailSend_DotNETCore8WebAPI)** ( .NET Core Web API + SQL Server )
 - **[Book Store](https://github.com/CydexCode/Book-Store-Application-CSharp.net-and-Vue.js)** ( .NET Core Web API + Vue.js + SQL Server )
