@@ -16,6 +16,19 @@ Since I'm (still) a Computer Enginnering Undergraduate Student(University of Jaf
 - **[CydexCode Mobile App](https://github.com/CydexCode/CydexCode_Mobile_App)** 📱
 - **[CydexCode Web Application](https://github.com/CydexCode/CydexCode_Blog_App)** 💻
 
+### Completed Projects 🚧
+
+- **[University ExamHall Booking System](https://github.com/CydexCode/ExamHallBookingSystem)** ( .NET Core Web API + React.js )
+- **[Pet Palace](https://github.com/CydexCode/Pet_Palace)** ( .NET Core Web API + React )
+- **Juice Bar ([Backend](https://github.com/CydexCode/JuiceBarAPI) , [Frontend](https://github.com/CydexCode/JuiceBarApplication))** ( .NET Core Web API + React.js )
+- **[Mail Send](https://github.com/CydexCode/MailSend_DotNETCore8WebAPI)** ( .NET Core Web API )
+- **[Book Store](https://github.com/CydexCode/Book-Store-Application-CSharp.net-and-Vue.js)** ( .NET Core Web API + Vue.js )
+- **[Book Store](https://github.com/CydexCode/Book_Store_App-MERN-Stack)** ( MERN )
+- **[Crud application](https://github.com/CydexCode/Crud_Users-MERN-Stack)** ( MERN )
+- **[Student Management System with local storage](https://github.com/CydexCode/Simple-Student-management-system-with-local-storage)** ( HTML , CSS , JavaScript )
+- **[Responsive Portfolio Website](https://github.com/CydexCode/Portfolio-Personal-Website)** ( HTML , CSS , JavaScript )
+- **[Chess Game](https://github.com/CydexCode/Chess-Game-using-JavaScript)** ( HTML , CSS , JavaScript )
+
 ### Wanna connect with me?
 
 <div id="badges">
