@@ -5,7 +5,6 @@
 - I'm a tech enthusiast who would like to explore new technologies.
 I love to share knowledge with the rest of the world, and that's why I write a lot of [Blog articles](https://medium.com/@cydexcode) and make [YouTube](https://www.youtube.com/@cydexcode) , [TikTok](https://www.tiktok.com/@cydexcode) videos.I also like to share my code so others can make use of them.
 - Computer Enginnering Undergraduate (University of Jaffna)
-- The **Founder** of the **[CydexCode](https://www.linkedin.com/company/cydexcode)** E-Learning Provider.
 - 📧 Contact: <a href="mailto:sachinthanabuddhika79@gmail.com" style="text-decoration: none;">sachinthanabuddhika79@gmail.com</a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=Five+Years+Of+Experience+in+Programming⭐.." />
