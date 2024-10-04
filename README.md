@@ -12,6 +12,7 @@ I love to share knowledge with the rest of the world, and that's why I write a l
 
 ### Ongoing Projects 🚧
 
+- **[DApp for E Portfolio System](https://github.com/CydexCode/DApp-for-E-Portfolio-system)**  ( Solidity + Polygon  ) 
 - **[CydexCode Mobile App](https://github.com/CydexCode/CydexCode_Mobile_App)** 📱 ( React Native + HyGraph + GraphQL + Expo ) 
 - **[CydexCode Web Application](https://github.com/CydexCode/CydexCode_Blog_App)** 💻
 
