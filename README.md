@@ -13,7 +13,7 @@ I love to share knowledge with the rest of the world, and that's why I write a l
 ### Ongoing Projects 🚧
 
 - **[DApp for E Portfolio System](https://github.com/CydexCode/DApp-for-E-Portfolio-system)**  ( Solidity + Ethereum  )
-- **[Vehicle_Parking_Space_Detection](https://github.com/ManashviCode/Vehicle_Parking_Space_Counter)**  ( Object Detection(Computer Vision))
+- **[Parking spot detection and counter ](https://github.com/ManashviCode/Vehicle_Parking_Space_Counter)**  ( Object Detection(Computer Vision))
 - **[Spelling-Corrector-and-Grammar-Checker-for-Sinhala](https://github.com/CydexCode/Spelling-Corrector-and-Grammar-Checker-for-Sinhala)**  ( AI + Python  ) 
 - **[CydexCode Mobile App](https://github.com/CydexCode/CydexCode_Mobile_App)** 📱 ( React Native + HyGraph + GraphQL + Expo ) 
 - **[CydexCode Web Application](https://github.com/CydexCode/CydexCode_Blog_App)** 💻
