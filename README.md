@@ -3,7 +3,6 @@
 ### Who am I?
 
 - I'm a tech enthusiast who would like to explore new technologies.
-I love to share knowledge with the rest of the world, and that's why I write a lot of [Blog articles](https://medium.com/@cydexcode) and make [YouTube](https://www.youtube.com/@cydexcode) , [TikTok](https://www.tiktok.com/@cydexcode) videos.I also like to share my code so others can make use of them.
 - Computer Enginnering Undergraduate (University of Jaffna)
 - 📧 Contact: <a href="mailto:sachinthanabuddhika79@gmail.com" style="text-decoration: none;">sachinthanabuddhika79@gmail.com</a>
 <p align="center">
