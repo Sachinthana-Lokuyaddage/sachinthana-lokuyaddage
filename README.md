@@ -50,23 +50,6 @@ I love to share knowledge with the rest of the world, and that's why I write a l
  
 </div>
 
-### Wanna learn from me?
-
-<div id="badges">
-  <a href="https://medium.com/@cydexcode">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@cydexcode">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <a href="https://www.tiktok.com/@cydexcode">
-    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
-  </a>
-  <a href="https://t.me/CydexCode_Academy">
-    <img src="https://img.shields.io/badge/Telegramr-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -79,18 +62,6 @@ I love to share knowledge with the rest of the world, and that's why I write a l
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cydexcode&theme=tokyonight" alt="mystreak"/>
 
 
-### Send me a message to grow your business worldwide through my TikTok, YouTube, Telegram channels
-
-* <div> cydexcode2000@gmail.com</div>
-* <div> +9470 5888 081 (WhatsApp,Telegram)</div> 
-
-
-
-### Wanna sponsor me?
-
-<a href="https://www.paypal.me/SachinthaLokuyaddage?locale.x=en_AU" target="_blank">
-  <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="Donate with PayPal" height="50px">
-</a>
 
 
 
