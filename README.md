@@ -55,10 +55,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,cpp,cs,java,express,react,vue,nodejs,typescript,nextjs,dotnet,mongodb,mysql,postman,netlify,arduino,linux,figma,git,azure,kubernetes,docker,stackoverflow,tensorflow)](https://skillicons.dev)
 
 
-### My status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CydexCode&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub status" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CydexCode&&exclude_repo=CydexCode&layout=compact&theme=dracula" alt="languages"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cydexcode&theme=tokyonight" alt="mystreak"/>
 
 
 
