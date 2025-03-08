@@ -4,7 +4,7 @@
 
 - I'm a tech enthusiast who would like to explore new technologies.
 - Computer Enginnering Undergraduate (University of Jaffna)
-- 📧 Contact: <a href="mailto:sachinthanabuddhika79@gmail.com" style="text-decoration: none;">sachinthanabuddhika79@gmail.com</a>
+- 📧 Contact: <a href="mailto:sachinthanalokuyaddage@gmail.com" style="text-decoration: none;">sachinthanalokuayaddage@gmail.com</a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=0000FF&width=500&lines=Five+Years+Of+Experience+in+Programming⭐.." />
 </p>
